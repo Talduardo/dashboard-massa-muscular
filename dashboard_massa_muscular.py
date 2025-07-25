@@ -75,6 +75,12 @@ dicas_finais = [
     "Durma de 7 a 9 horas por noite para recuperação",
     "Consulte nutricionista para ajustes personalizados",
     "➡️ Quantidade total estimada de arroz por dia: 100 a 200g (cozido). Para ganho calórico extra, até 300g/dia."
+    "🕗 Café da manhã (6h–7h)"
+    "🕙 Lanche da manhã (9h)"
+    "🕛 Almoço (12h–13h)"
+    "🕒 Merenda(15h–16h)"
+    "🏋️‍♂️ Pré-treino (18h–19h)"
+    "🌙 Jantar | 🛌 Ceia (22h–23h)"
 ]
 
 # --- Streamlit app ---
